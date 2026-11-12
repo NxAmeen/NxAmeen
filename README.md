@@ -33,6 +33,18 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c&theme=dark" alt="HTML, CSS, Tailwind CSS, JavaScript and C" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-161B22?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab" />
+</p>
+
+<p align="center">
+  <strong>Languages &amp; web</strong><br/>
+  Python · C · JavaScript · HTML · CSS · Tailwind CSS<br/><br/>
+  <strong>Notebooks</strong><br/>
+  Jupyter Notebook · Google Colab<br/><br/>
   <strong>Data &amp; ML</strong><br/>
   NumPy · Pandas · Matplotlib · Seaborn · scikit-learn<br/><br/>
   <strong>Analytics &amp; automation</strong><br/>
