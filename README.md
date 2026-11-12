@@ -71,9 +71,6 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NxAmeen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=C9D1D9" alt="NxAmeen's GitHub contribution streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NxAmeen&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&hide_border=true" alt="NxAmeen's GitHub contribution activity graph" width="100%" />
-</p>
 
 ---
 
