@@ -74,10 +74,9 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 
 <p align="center">
   Videography · Video editing · Motion graphics · Colour &amp; sound<br/><br/>
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps&theme=dark" alt="Premiere Pro, After Effects and Photoshop" /><br/>
-  <img src="https://img.shields.io/badge/Lightroom-161B22?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" alt="Adobe Lightroom" />
-  <img src="https://img.shields.io/badge/Canva-161B22?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" /><br/>
-  <sub>Premiere Pro · After Effects · Photoshop · Lightroom · Canva</sub>
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps,lr&theme=dark" alt="Premiere Pro, After Effects, Photoshop and Lightroom" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" /><br/>
+  <sub>Premiere Pro · After Effects · Photoshop</sub>
 </p>
 
 ---
