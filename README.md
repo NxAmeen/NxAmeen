@@ -74,7 +74,8 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 
 <p align="center">
   Videography · Video editing · Motion graphics · Colour &amp; sound<br/><br/>
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps,lr&theme=dark" alt="Premiere Pro, After Effects, Photoshop and Lightroom" />
+  <img src="https://skillicons.dev/icons?i=pr,ae,ps&theme=dark" alt="Premiere Pro, After Effects and Photoshop" />
+  <img src="https://api.iconify.design/logos/adobe-lightroom.svg" alt="Adobe Lightroom" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" /><br/>
   <sub>Premiere Pro · After Effects · Photoshop</sub>
 </p>
