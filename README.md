@@ -33,7 +33,7 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c&theme=dark" alt="HTML, CSS, Tailwind CSS, JavaScript and C" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,java,spring,aws&theme=dark" alt="HTML, CSS, Tailwind CSS, JavaScript, C, Java, Spring Boot and AWS" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
@@ -42,7 +42,9 @@ I'm **Ameen Nizar**, exploring the intersection of data, intelligent systems and
 
 <p align="center">
   <strong>Languages &amp; web</strong><br/>
-  Python · C · JavaScript · HTML · CSS · Tailwind CSS<br/><br/>
+  Python · C · Java · JavaScript · HTML · CSS · Tailwind CSS<br/><br/>
+  <strong>Backend &amp; cloud</strong><br/>
+  Spring Boot · FastAPI · AWS · Docker<br/><br/>
   <strong>Notebooks</strong><br/>
   Jupyter Notebook · Google Colab<br/><br/>
   <strong>Data &amp; ML</strong><br/>
